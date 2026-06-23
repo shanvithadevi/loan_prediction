@@ -5,3 +5,5 @@ cd loan_prediction
 pip install -r requirements.txt
 
 streamlit run loan_predictor.py
+
+deploy https://loanprediction-eubtqksckhyytute4jomyk.streamlit.app/
