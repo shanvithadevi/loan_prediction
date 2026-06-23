@@ -4,4 +4,4 @@ cd loan_prediction
 
 pip install -r requirements.txt
 
-streamlit run loan_app.py
+streamlit run loan_predictor.py
